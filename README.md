@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Hammad
-- 👀 I’m interested in Artificial intelligence and data science
-- 🌱 I’m currently learning Machine learning and business inteliigence tools.
+- 👀 Working in Artificial intelligence and data science
+- 🌱 generative AI.
 - 📫 reach me hammadsiddique009@gmail.com
 
 <!---
